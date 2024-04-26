@@ -1,0 +1,2 @@
+torch==2.2.2
+facenet_pytorch==2.5.1
